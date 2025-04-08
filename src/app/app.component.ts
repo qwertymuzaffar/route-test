@@ -15,5 +15,5 @@ import { NgSwitch, NgSwitchCase, NgSwitchDefault } from "@angular/common";
   standalone: true
 })
 export class AppComponent {
-  title = 'angular-refresh-test';
+  title = 'angular-refresh-test-2';
 }
